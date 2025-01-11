@@ -10,11 +10,14 @@
     "dev": "tauri dev"
   },
   "dependencies": {
+    "@tauri-apps/api": "^2.2.0",
+    "@tauri-apps/plugin-opener": "^2.2.3",
     "next": "14.2.23",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@tauri-apps/cli": "^2.2.3",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
